@@ -1,0 +1,9 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\bin\Debug\basichack.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\bin\Debug\basichack.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\bin\Debug\basichack.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\obj\Debug\basichack.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\obj\Debug\basichack.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\obj\Debug\basichack.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\obj\Debug\basichack.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\obj\Debug\basichack.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\+Cheats\basichack\basichack\obj\Debug\basichack.Form1.resources
